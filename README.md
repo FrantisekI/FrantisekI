@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @FrantisekI
-- 👀 I’m interested in python, web, mathematics
+- 👀 I’m interested in python, web dev, mathematics
 - 🌱 I’m currently learning NEXT.JS & TypeScript
-- 💞️ I’m looking to collaborate on ...
-- ⚡ Fun fact: I do balley
+- 💞️ I’m looking to collaborate on whatever you want, during summer i have lots of free time 
+- ⚡ Fun fact: I do ballet 
 <!--- - 📫 How to reach me: frantisekdomaths@gmail.com --->
 
 
