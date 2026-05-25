@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FrantisekI
+- 👋 Currently, I'm more active in my school account [@zapotocf](https://gitlab.mff.cuni.cz/zapotocf)
 - 👀 I’m interested in C++/C# and mathematics
 - 🌱 I’m currently learning C++ and LLVM static code analysis
 - 💞️ I’m looking to collaborate on whatever - I don't know
